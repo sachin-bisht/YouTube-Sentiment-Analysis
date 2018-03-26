@@ -45,3 +45,5 @@ First input the __API key__ in the file.
 __CommentSentiment/comment_extract.py__
 
 __FancySentiment/comment_downloader.py__
+
+Then run the __driver.py__ file.
