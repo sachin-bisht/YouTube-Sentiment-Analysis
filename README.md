@@ -2,7 +2,7 @@
 
 Scrape all the YouTube comments using api.
 
-## Desciption :
+## Description :
 This project works by scraping YouTube comments and identify the sentiment of comments.
 
 The file FancySentiment shows the WordCloud (most frequent words) in the comments.
