@@ -34,6 +34,10 @@ _nltk package :_
 
 > $ sudo pip3 install nltk
 
+_wordcloud package :_
+
+> $ sudo pip3 install wordcloud
+
 
 ## How to run :
 First input the __API key__ in the file.
