@@ -5,9 +5,9 @@ Scrape all the YouTube comments using api.
 ## Description :
 This project works by scraping YouTube comments and identify the sentiment of comments.
 
-The file FancySentiment shows the WordCloud (most frequent words) in the comments.
+The directory FancySentiment shows the WordCloud (most frequent words) in the comments.
 
-The file CommentSentiment shows the positive/negative sentiment (using NaiveBayesClassifier) in the comments.
+The directory CommentSentiment shows the positive/negative sentiment (using NaiveBayesClassifier) in the comments.
 
 ## Prerequisite :
 _Python 3_
