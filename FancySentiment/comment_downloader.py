@@ -10,7 +10,7 @@ key = 'KEY'
 	
 
 def commentExtract(videoId, count = -1):
-	print ("Comments downloading :")
+	print ("Comments downloading")
 	page_info = requests.get(YOUTUBE_LINK.format(videoId = videoId, key = key))
 	while page_info.status_code != 200:
 		if page_info.status_code != 429:
