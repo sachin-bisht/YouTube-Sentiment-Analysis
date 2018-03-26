@@ -36,7 +36,7 @@ _nltk package :_
 
 
 ## How to run :
-First input the __key__ in the file.
+First input the __ API key__ in the file.
 
 __CommentSentiment/comment_extract.py__
 
