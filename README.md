@@ -39,7 +39,7 @@ _wordcloud package :_
 > $ sudo pip3 install wordcloud
 
 
-## How to run :
+## Running the file :
 First input the __API key__ in the file.
 
 __CommentSentiment/comment_extract.py__
